@@ -20,7 +20,7 @@ public class LaunchActivity extends AppCompatActivity {
         registerBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                finish();
+                //finish();
                 startActivity(new Intent(LaunchActivity.this, RegisterActivity.class));
             }
         });
@@ -28,7 +28,7 @@ public class LaunchActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 // Implement "Check if User is Logged in" Logic
-                finish();
+                //finish();
                 startActivity(new Intent(LaunchActivity.this, DashboardActivity.class));
             }
         });

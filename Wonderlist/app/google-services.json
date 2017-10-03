@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317635497053",
+    "firebase_url": "https://wonderlist-6c674.firebaseio.com",
+    "project_id": "wonderlist-6c674",
+    "storage_bucket": "wonderlist-6c674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317635497053:android:8e9b444cf7e6acfe",
+        "android_client_info": {
+          "package_name": "com.falak_tejas.wonderlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317635497053-9urm7c7f6jcs9cckra0op59ju4sg9i4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5twZZALEryE2gymOiuNCRVON_1WjJWZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
